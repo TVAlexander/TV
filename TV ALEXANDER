@@ -1,0 +1,55 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ELTRECE" tvg-name="EL TRECE - ARGENTINA" group-title="Argentina",EL TRECE - ARGENTINA
+https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="VERTV" tvg-name="VER TV - ARGENTINA" group-title="Argentina",VER TV - ARGENTINA
+https://5f700d5b2c46f.streamlock.net/vertv/vertv/chunklist_w147492948.m3u8
+
+#EXTINF:-1 tvg-id="TVPUBLICA" tvg-name="TV PÚBLICA - ARGENTINA" group-title="Argentina",TV PÚBLICA - ARGENTINA
+https://g2.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
+
+#EXTINF:-1 tvg-id="CANAL10MDQ" tvg-name="CANAL 10 - MAR DEL PLATA" group-title="Argentina",CANAL 10 - MAR DEL PLATA
+https://g4.proy-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
+
+#EXTINF:-1 tvg-id="GARAGETV" tvg-name="GARAGE TV - ARGENTINA" group-title="Argentina",GARAGE TV - ARGENTINA
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:-1 tvg-id="CANAL12" tvg-name="CANAL 12 - ARGENTINA" group-title="Argentina",CANAL 12 - ARGENTINA
+https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/chunklist_w526326525.m3u8
+
+#EXTINF:-1 tvg-id="COSMOTV" tvg-name="COSMO TV - ARGENTINA" group-title="Argentina",COSMO TV - ARGENTINA
+https://videostream.shockmedia.com.ar:19360/cosmostv/cosmostv.m3u8
+
+#EXTINF:-1 tvg-id="MUSICTOP" tvg-name="MUSIC TOP - ARGENTINA" group-title="Argentina",MUSIC TOP - ARGENTINA
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CANAL5TIGRE" tvg-name="CANAL 5 - TIGRE - ARGENTINA" group-title="Argentina",CANAL 5 - TIGRE - ARGENTINA
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
+
+#EXTINF:-1 tvg-id="TELEMAX" tvg-name="TELEMAX - ARGENTINA" group-title="Argentina",TELEMAX - ARGENTINA
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CN247" tvg-name="247 - CANAL DE NOTÍCIAS - ARGENTINA" group-title="Argentina",247 - CANAL DE NOTÍCIAS - ARGENTINA
+https://panel.host-live.com:19360/cn247tv/passthru.m3u8
+
+#EXTINF:-1 tvg-id="MULTIVISION" tvg-name="MULTIVISION - ARGENTINA" group-title="Argentina",MULTIVISION - ARGENTINA
+https://panel.host-live.com:19360/8250/8250.m3u8
+
+#EXTINF:-1 tvg-id="CANAL7JUJUY" tvg-name="CANAL 7 - JUJUY - ARGENTINA" group-title="Argentina",CANAL 7 - JUJUY - ARGENTINA
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w967928165_b1146880.m3u8
+
+#EXTINF:-1 tvg-id="LATINATV" tvg-name="LATINA TV - ARGENTINA" group-title="Argentina",LATINA TV - ARGENTINA
+https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CANALLUZ" tvg-name="CANAL LUZ - ARGENTINA" group-title="Argentina",CANAL LUZ - ARGENTINA
+https://g2.vxral-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="REALMADRIDTV" tvg-name="REAL MADRID TV" group-title="Espanha",REAL MADRID TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-id="TVE24HORAS" tvg-name="TVE 24 HORAS - ESPANHA" group-title="Espanha",TVE 24 HORAS - ESPANHA
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
+
+#EXTINF:-1 tvg-id="TODONOVELAS" tvg-name="TODO NOVELAS - ESPANHA" group-title="Espanha",TODO NOVELAS - ESPANHA
+https://4ff77b38.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/Q2FuZWxhVFZfVG9kb0RyYW1hX0hMUw/c55ba5da-8a30-484c-8783-5b7dcabb6ee7/3.m3u8
