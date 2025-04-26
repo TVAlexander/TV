@@ -53,3 +53,214 @@ https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 
 #EXTINF:-1 tvg-id="TODONOVELAS" tvg-name="TODO NOVELAS - ESPANHA" group-title="Espanha",TODO NOVELAS - ESPANHA
 https://4ff77b38.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/Q2FuZWxhVFZfVG9kb0RyYW1hX0hMUw/c55ba5da-8a30-484c-8783-5b7dcabb6ee7/3.m3u8
+
+#EXTINF:-1 tvg-id="CN247" tvg-name="247 - CANAL DE NOTÍCIAS - ARGENTINA" group-title="Argentina",247 - CANAL DE NOTÍCIAS - ARGENTINA
+https://panel.host-live.com:19360/cn247tv/passthru.m3u8
+
+#EXTINF:-1 tvg-id="BOLIVIA TV" tvg-name="BOLÍVIA TV" group-title="Bolívia",BOLÍVIA TV
+https://5fe2654d6127d.streamlock.net/boliviatv/videoboliviatv/chunklist_w704599439.m3u8
+
+#EXTINF:-1 tvg-id="LA RED TV" tvg-name="LA RED TV - CHILE" group-title="Chile",LA RED TV - CHILE
+https://alba-cl-lared-lared.stream.mediatiquestream.com/480p.m3u8
+
+#EXTINF:-1 tvg-id="RETROPLUS" tvg-name="RETROPLUS" group-title="Retro",RETROPLUS
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv/chunks.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-id="VCLASSIC TV" tvg-name="VCLASSIC TV" group-title="Classic",VCLASSIC TV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1013085143.m3u8
+
+#EXTINF:-1 tvg-id="DEPORTES 13" tvg-name="DEPORTES 13" group-title="Sports",DEPORTES 13
+https://dai.google.com/linear/hls/pa/event/uFiYkh4CQPCPgbs7WPKhXw/stream/05ffc46f-0033-45fb-993b-1041ff6ed4e9:SCL/variant/85baf553f081df64611f01e51a7f045c/bandwidth/5148444.m3u8
+
+#EXTINF:-1 tvg-id="CANAL 13" tvg-name="CANAL 13 - CHILE" group-title="Chile",CANAL 13 - CHILE
+https://marine2.miplay.cl/c13/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="UCTV" tvg-name="UCTV - CHILE" group-title="Chile",UCTV - CHILE
+https://unlimited1-us.dps.live/ucvtveventos/ucvtveventos.smil/ucvtveventos/livestream1/chunks.m3u8?nimblesessionid=904542131
+
+#EXTINF:-1 tvg-id="VCLASSIC TROPICAL" tvg-name="VCLASSIC - TROPICAL" group-title="Tropical",VCLASSIC - TROPICAL
+https://5eaccbab48461.streamlock.net:1936/8076/8076/chunklist_w2141284035.m3u8
+
+#EXTINF:-1 tvg-id="TELEVIDA" tvg-name="TELEVIDA - CHILE" group-title="Chile",TELEVIDA - CHILE
+https://tls-cl.cdnz.cl/televida/live/chunklist_w495047417.m3u8
+
+#EXTINF:-1 tvg-id="GRACIA TV" tvg-name="GRACIA TV - CHILE" group-title="Chile",GRACIA TV - CHILE
+https://v4.tustreaming.cl/graciatv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="CANAL CAPITAL" tvg-name="CANAL CAPITAL - COLÔMBIA" group-title="Colômbia",CANAL CAPITAL - COLÔMBIA
+https://staticassets-creator-design.criteo.net/design/dt/87198/1737479768/9440f7e3cae64e4db8d71d555d1e6c6a_vt_institucional_15-_2025_(2).mp4?ibv=1
+
+#EXTINF:-1 tvg-id="CALITV" tvg-name="CALITV - COLÔMBIA" group-title="Colômbia",CALITV - COLÔMBIA
+https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/chunklist_w330696456.m3u8
+
+#EXTINF:-1 tvg-id="TELEMEDELLIN" tvg-name="TELEMEDELLIN" group-title="Colômbia",TELEMEDELLIN
+https://liveingesta118.cdnmedia.tv/tvtelemedellinlive/rtmp01-1500/chunklist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="TELEPACIFICO" tvg-name="TELEPACÍFICO" group-title="Colômbia",TELEPACÍFICO
+https://live-edge-eu-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-telepacifico/index.m3u8
+
+#EXTINF:-1 tvg-id="CANAL TRO" tvg-name="CANAL TRO - COLÔMBIA" group-title="Colômbia",CANAL TRO - COLÔMBIA
+https://liveingesta118.cdnmedia.tv/canaltro2live/live-1500/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TELEANTIOQUIA" tvg-name="TELEANTIOQUIA - COLÔMBIA" group-title="Colômbia",TELEANTIOQUIA - COLÔMBIA
+https://liveingesta118.cdnmedia.tv/teleantioquialive/dvrlive-1500/chunklist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="OASIS TV" tvg-name="OASIS TV - COLÔMBIA" group-title="Colômbia",OASIS TV - COLÔMBIA
+https://5e85d90130e77.streamlock.net/6020/6020/chunklist_w408095162.m3u8
+
+#EXTINF:-1 tvg-id="88STEREO" tvg-name="88 STEREO - COSTA RICA" group-title="Costa Rica",88 STEREO - COSTA RICA
+https://s1.tvdatta.com:3972/live/88stereolive.m3u8
+
+#EXTINF:-1 tvg-id="XPRESSO" tvg-name="XPRESSO JOVEN RADIO - COSTA RICA" group-title="Costa Rica",XPRESSO JOVEN RADIO - COSTA RICA
+https://vivo.solumedia.com:19360/xpressojoven/xpressojoven.m3u8
+
+#EXTINF:-1 tvg-id="PRENSA_LATINA" tvg-name="PRENSA LATINA - CUBA" group-title="Cuba",PRENSA LATINA - CUBA
+https://eu1.servers10.com:8081/8192/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="CUBAVISION" tvg-name="CUBAVISION INTERNACIONAL - CUBA" group-title="Cuba",CUBAVISION INTERNACIONAL - CUBA
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/chunklist_b2484233.m3u8
+
+#EXTINF:-1 tvg-id="TVGUADALAJARA" tvg-name="TV GUADALAJARA - MÉXICO" group-title="México",TV GUADALAJARA - MÉXICO
+https://channel08secure-notusa.akamaized.net/hls/live/2037034/event01/index_6.m3u8?hdntl=exp=1745781118~acl=/*~data=hdntl~hmac=974d10f6b5bfb629013333e88e69f84b9b93423756f039eacc915b8da7e6bbba&
+
+#EXTINF:-1 tvg-id="CANALONCE" tvg-name="CANAL ONCE - MÉXICO" group-title="México",CANAL ONCE - MÉXICO
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b2098304.m3u8
+
+#EXTINF:-1 tvg-id="ASTECAS" tvg-name="ASTECAS DEPORTES - MÉXICO" group-title="México",ASTECAS DEPORTES - MÉXICO
+https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
+
+#EXTINF:-1 tvg-id="LATINATV-PERU" tvg-name="LATINA TV - PERU" group-title="Peru",LATINA TV - PERU
+https://jireh-3-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream0/chunks.m3u8?dpssid=b2119699464653fd0407ce84&sid=ba5t1l1xb21669837412680d32b2e6cf3&ndvc=0
+
+#EXTINF:-1 tvg-id="TVPANAMERICANA-PERU" tvg-name="TV PANAMERICANA - PERU" group-title="Peru",TV PANAMERICANA - PERU
+https://sae13.playlist.live-video.net/v1/playlist/Cr8FOgCmrKl_CvqNrlGoVYW_LSLNV4Ysvhxe4nO_MMqD8DRH1OjX3yDBgC1P2VlpIV4jq15szFtQxmTf-vrUJOnB9f3rxH-e0IBAJn45qcs4Uci90VsdlPOc96NUA5NSN2_reaIhsn7kZOx3MOdeBJzU3LgksMFB2Cr0klu-019GpZ_EBV8EwWVdDgUH154-ExNIt2AYkhL7yN3v5Scfmoi4XFF-I40Yok5RkJQKRiv9_uDkfKAwD6mGjW6i34kpczXzhbJ92xTCBGeJOwfQg_-1zTtExLjVdObqzyNTqcmLoodQ1BYue25_d72TWFimAsQb4Zg3rzVC-DkpKjb5FN4IYKHjkcbseJOWjTwcB5xCvujIBMjhjqTvooabX6t693i9oTMutwynOgOYVRj5wMPhdUhBrCrs3ULkiRmOmGHbJLgS-vwZyP28qG95_acJZXTetT6KaUgOGZCbUx7yzkySgb-_81DvPevSNx6yECEMEOeMKky94TlZEb1_EkNdiRMiEDry6HWDQ2_1XoyvmLd9CMKh201FvE52TC2H1DxhLoQ05c4ArbiuQt3B95mzWTLBDzwteaNvxX2YsdaZeF4UXBZ9XRsw-QE40vYAjzEgrLrBKncplCl6zHMGflla1XgMJYAbacIOFiKXCPziH1Uxmqa1e7AyPlLH-o9V58SewIUIW1czCqocESw7ugfYQM_y4i4_RSnUejqsGcIjcKV0mRLnb9TiSydnjPFccX5BnPsUuhLxCuA_BO4kj2w4goeQ5CdJS1n9k527rUtB38J9DzgS9ftGLdtwridWKN49sxuRMr0UVDbWLtC7_lwNGJk_FY4jjbTflRD_ln4wxECjDRBI6HDcUNKDkG8HGDnLgPsiaYOCdvlKveNJAttYWtWQ7erh9oLTGgc5mmP-k3hGiAz78QDYmnp2x1Ls8-oosBoMvLfF07oNsOcBJqLiIAEqCXVzLWVhc3QtMjCPDA.m3u8
+
+#EXTINF:-1 tvg-id="SOLTV-PERU" tvg-name="SOL TV - PERU" group-title="Peru",SOL TV - PERU
+https://video03.logicahost.com.br/soltv/soltv/chunklist_w1209310412.m3u8
+
+#EXTINF:-1 tvg-id="TVGALICIA-ESPANHA" tvg-name="TV GALÍCIA - ESPANHA" group-title="Espanha",TV GALÍCIA - ESPANHA
+https://crtvg-america.flumotion.cloud/crtvg/america_high/chunks.m3u8
+
+#EXTINF:-1 tvg-id="RUNTIME-ESPANOL-ESPANHA" tvg-name="Runtime Español - Cine Y Series- ESPANHA" group-title="Espanha",Runtime Español - Cine Y Series- ESPANHA
+https://stream.ads.ottera.tv/cl/250426d06j7cg60mm5ptjripbg/1280x720_3071200_0_f.m3u8?i=728_2152
+
+#EXTINF:-1 tvg-id="TELEMADRID-ESPANHA" tvg-name="TELEMADRID - ESPANHA" group-title="Espanha",TELEMADRID - ESPANHA
+https://tvradio-1-23-secure2.akamaized.net/bitrate_1.m3u8
+
+#EXTINF:-1 tvg-id="HISPANTV-ESPANHA" tvg-name="HISPAN TV - ESPANHA" group-title="Espanha",HISPAN TV - ESPANHA
+https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
+
+#EXTINF:-1 tvg-id="CANAL-EXTREMADURA-ESPANHA" tvg-name="CANAL EXTREMADURA - ESPANHA" group-title="Espanha",CANAL EXTREMADURA - ESPANHA
+https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/5581662/e/1_1u7ssdy3/tl/main/st/0/t/P3Y26JL73ot7CaBviRQOQA/index-s32.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzU1ODE2NjIvZS8xXzF1N3NzZHkzL3RsL21haW4vc3QvMC90L1AzWTI2Skw3M290N0NhQnZpUlFPUUEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NTc4MjMwOH19fV19&Signature=d-OXlDUxT6WWx-Bnpa6Wo5wyhKBdU2ODMvP1K7arATDawFL5h~3sPDrQBJqEXlmrgQHoJr~cmi7267A5cNoXzodGVT-vvQPn2auwNFnl7qrT0XR1i-qfznNhpNA5EIzqrLLiz6G1IIZbLxjilaS6cX6tQtw~ZFI3GI8P6tOhejc3NRvP0pmOv50sUOB-ngbKMOFQeYxxAuM33vK9b~NDbhfH~36bmsc3Kj7aUe4tukNh0~VKEOudCynnCgUf~0Ub9CygHX0BCY-kFfb3c9GQX1bP1OGQz-XT23-uog2xP9cM2aM-XGatPTFXBbblmN5Hq7Wq8jQATMKPVqKPNurcDw__&Key-Pair-Id=K31ANTJBLNVBEC
+
+#EXTINF:-1 tvg-id="CANAL-24HORAS-ILHASCANARIAS-ESPANHA" tvg-name="CANAL 24 HORAS - ILHAS CANÁRIAS - ESPANHA" group-title="Espanha",CANAL 24 HORAS - ILHAS CANÁRIAS - ESPANHA
+https://rtvelivestream.akamaized.net/rtvesec/can/24h_can_main_576.m3u8
+
+#EXTINF:-1 tvg-id="TELEVISION-DE-GALICIA-ESPANHA" tvg-name="TELEVISION DE GALÍCIA - ESPANHA" group-title="Espanha",TELEVISION DE GALÍCIA - ESPANHA
+https://crtvg-europa.flumotion.cloud/crtvg/europa_high/chunks.m3u8
+
+#EXTINF:-1 tvg-id="ARAGONTV-ESPANHA" tvg-name="ARAGÓN TV - ESPANHA" group-title="Espanha",ARAGÓN TV - ESPANHA
+https://streamer92.server.aranova.cloud/clsdvr/live/aragontv_canal1_1500/index.m3u8?vv=BR&h=W3QAoIDUrZTppj4dG66qKA&e=31373435373832323436&r=5210
+
+#EXTINF:-1 tvg-id="SOLMUSICA-ESPANHA" tvg-name="SOL MÚSICA - ESPANHA" group-title="Espanha",SOL MÚSICA - ESPANHA
+https://stream.ads.ottera.tv/cl/250426d06j8sbj00l9jk2u88sg/1280x720_3071200_0_f.m3u8?i=475_5760
+
+#EXTINF:-1 tvg-id="RUNTIMECOMEDIA-ESPANHA" tvg-name="RUN TIME COMÉDIA - ESPANHA" group-title="Espanha",RUN TIME COMÉDIA - ESPANHA
+https://stream.ads.ottera.tv/cl/250426d06j8s1itkb1aluc48i0/854x480_1355200_2_f.m3u8?i=1164_6131
+
+#EXTINF:-1 tvg-id="TVMURCIA-ESPANHA" tvg-name="TV MÚRCIA - ESPANHA" group-title="Espanha",TV MÚRCIA - ESPANHA
+https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/chunklist_w2121581322_b3300000.m3u8
+
+#EXTINF:-1 tvg-id="TELEMUNDO-EM-ESPANHOL-EUA" tvg-name="TELEMUNDO EM ESPANHOL - ESTADOS UNIDOS" group-title="EUA",TELEMUNDO EM ESPANHOL - ESTADOS UNIDOS
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
+
+#EXTINF:-1 tvg-id="NUEVORADIO-ESTADOSUNIDOS" tvg-name="NUEVO RADIO - ESTADOS UNIDOS" group-title="EUA",NUEVO RADIO - ESTADOS UNIDOS
+https://livestream1.nuevoradio.com/nuevoradio/master.m3u8
+
+#EXTINF:-1 tvg-id="USALATINA-ESTADOSUNIDOS" tvg-name="USA LATINA - ESTADOS UNIDOS" group-title="EUA",USA LATINA - ESTADOS UNIDOS
+https://stream-usb.us/latina.m3u8
+
+#EXTINF:-1 tvg-id="ESTRELLA-TV-ESTADOSUNIDOS" tvg-name="ESTRELLA TV - ESTADOS UNIDOS" group-title="EUA",ESTRELLA TV - ESTADOS UNIDOS
+https://edge9-cluster01.telebroadband.com/estrella/estrella.m3u8
+
+#EXTINF:-1 tvg-id="LATINOS-ESTADOSUNIDOS" tvg-name="LATINOS - ESTADOS UNIDOS" group-title="EUA",LATINOS - ESTADOS UNIDOS
+https://service-edge1.fptplay.net/7cxxh23pskhvhlvj6ocj31s7sxou5ns7u5t7xmbw8c7wrp3-1651/latinos/hd01.m3u8
+
+#EXTINF:-1 tvg-id="NTN24-ESTADOSUNIDOS" tvg-name="NTN24 - ESTADOS UNIDOS" group-title="EUA",NTN24 - ESTADOS UNIDOS
+https://ntn24cdn-secure.cdnvideo.rdsnet.ro/hls/ntn24_720p/ntn24_720p.m3u8
+
+#EXTINF:-1 tvg-id="REDEBRASIL-BRASIL" tvg-name="Rede Brasil de Televisão" group-title="BRASIL",Rede Brasil de Televisão
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w382977761.m3u8
+
+#EXTINF:-1 tvg-id="TVBRASIL-BRASIL" tvg-name="TV BRASIL" group-title="BRASIL",TV BRASIL
+https://tvbrasil-stream.ebc.com.br/EBC_HD-avc1_2300000=10000.m3u8
+
+#EXTINF:-1 tvg-id="TVCULTURA-BRASIL" tvg-name="TV CULTURA - BRASIL" group-title="BRASIL",TV CULTURA - BRASIL
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
+
+#EXTINF:-1 tvg-id="TVPARANATURISMO-BRASIL" tvg-name="TV Paraná Turismo (Cultura PR) - BRASIL" group-title="BRASIL",TV Paraná Turismo (Cultura PR) - BRASIL
+https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
+
+#EXTINF:-1 tvg-id="TCM-MOSSORO-BRASIL" tvg-name="TCM- TV Cabo Mossoró" group-title="BRASIL",TCM- TV Cabo Mossoró
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
+
+#EXTINF:-1 tvg-id="TVCULTURAPA-BRASIL" tvg-name="TV CULTURA DO PARÁ" group-title="BRASIL",TV CULTURA DO PARÁ
+https://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/chunklist_w1599747588.m3u8
+
+#EXTINF:-1 tvg-id="TVFUTURA-BRASIL" tvg-name="TV FUTURA" group-title="BRASIL",TV FUTURA
+https://tv.unisc.br/hls/test.m3u8
+
+#EXTINF:-1 tvg-id="TVBRASILINTERNACIONAL-BRASIL" tvg-name="TV BRASIL INTERNACIONAL" group-title="BRASIL",TV BRASIL INTERNACIONAL
+https://tvbrasilinternacional-stream.ebc.com.br/INTERNACIONAL-avc1_1800000=10000.m3u8
+
+#EXTINF:-1 tvg-id="TVCAMARA-BRASIL" tvg-name="TV CÂMARA" group-title="BRASIL",TV CÂMARA
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-id="REDBULLTV-BRASIL" tvg-name="REDBULL TV" group-title="BRASIL",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+#EXTINF:-1 tvg-id="RTENESPANOL-RUSSIA" tvg-name="RT en Español - RÚSSIA" group-title="RÚSSIA",RT en Español - RÚSSIA
+https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
+
+#EXTINF:-1 tvg-id="TVEBAHIA-BRASIL" tvg-name="TVE BAHIA" group-title="BRASIL",TVE BAHIA
+http://rtmp.irdeb.ba.gov.br/stream/dash/tvehd.mpd
+
+#EXTINF:-1 tvg-id="CANALFDR-BRASIL" tvg-name="CANAL FDR" group-title="BRASIL",CANAL FDR
+https://cdn.mycloudstream.io/hls/live/broadcast/pxf9amx8/mono.m3u8
+
+#EXTINF:-1 tvg-id="ROCKTV-BRASIL" tvg-name="ROCK TV" group-title="BRASIL",ROCK TV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
+
+#EXTINF:-1 tvg-id="RETROMUSIC-BRASIL" tvg-name="RETRO MUSIC" group-title="BRASIL",RETRO MUSIC
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1851061944_b878000.m3u8
+
+#EXTINF:-1 tvg-id="RADIOM2O-BRASIL" tvg-name="Radio m2o Ao Vivo - A Batida Eletrônica da Itália" group-title="ITÁLIA",Radio m2o Ao Vivo - A Batida Eletrônica da Itália
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b3175855.m3u8
+
+#EXTINF:-1 tvg-id="RADIOITALIATV-BRASIL" tvg-name="Rádio Itália TV Ao Vivo" group-title="ITÁLIA",Rádio Itália TV Ao Vivo
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/stream03/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="89ARADIOROCK-BRASIL" tvg-name="89 A RÁDIO ROCK" group-title="BRASIL",89 A RÁDIO ROCK
+https://live-c.cf.dmcdn.net/sec2(2crljC3N5puRxfNNRD06-jWJIcMmAFAQi_GWqfWtiITfBhsYS-tlo-0WxU87mTd_Op0TMfiUylahZ8YFCWdiE62zj8hAENT6TefeIwyaQG9Vea0NRl2tfxOswpZZX6QP)/dm/3/x7wjrui/s/live-1080.m3u8#cell=lcfc
+
+#EXTINF:-1 tvg-id="TVRADIO-M20-BRASIL" tvg-name="TV Rádio M20 Ao Vivo" group-title="BRASIL",TV Rádio M20 Ao Vivo
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b3175855.m3u8
+
+#EXTINF:-1 tvg-id="RECORDNEWS-BRASIL" tvg-name="RECORD NEWS" group-title="BRASIL",RECORD NEWS
+https://stream.ads.ottera.tv/cl/250426d06jsogi7vgpfsufc2j0/1280x720_3071200_0_f.m3u8?i=728_5431
+
+#EXTINF:-1 tvg-id="REDEMINAS-BRASIL" tvg-name="REDE MINAS" group-title="BRASIL",REDE MINAS
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist_w874113476_b2771072.m3u8
+
+#EXTINF:-1 tvg-id="CANALGOV-BRASIL" tvg-name="CANAL GOV" group-title="BRASIL",CANAL GOV
+https://canalgov-stream.ebc.com.br/GOV-avc1_1800000=10000.m3u8
+
+#EXTINF:-1 tvg-id="TVASSEMBLEIA-BA-BRASIL" tvg-name="TV ASSEMBLEIA LEGISLATIVA DA BAHIA" group-title="BRASIL",TV ASSEMBLEIA LEGISLATIVA DA BAHIA
+https://live.mediastreaming.com.br/tvalba/7e7b424cc5a8528480d3b2157d27f516.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TVTROPICAL-BRASIL" tvg-name="TV Tropical (Rede Record RN)" group-title="BRASIL",TV Tropical (Rede Record RN)
+https://staticassets-creator-design.criteo.net/design/dt/87198/1742219353/583fa69183e5432a8c3065cfa84507e8_vt_moveis_15_2025_(1).mp4?ibv=1
+
+
+
+
